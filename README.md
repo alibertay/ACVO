@@ -29,12 +29,15 @@ FAQ
 ----------
 
 1-) What is the "different methods from usual"?
+
 Everyone can be/show a candidate to any ballot. This looks like a big innovation but not finished yet. We are working in a new "undo" function. Voters can "undo" their vote on the basis of voting and vote any candidate again. This is the actual "active voting" and in this way, the preference of the audience in the process can be seen. This feature is going to add ASAP.
 
 2-) Where did you lose UI/UX or your design talent?
+
 Okay, this may be the most asked question but we are developing ourselves and mainnet launch is going to be with new design and "different methods from usual".
 
 3-) Is there a ACVO Token plan?
+
 No. We are against the unnecessary use of token just to gain liquidity.
 
 4-) How can I invest?
