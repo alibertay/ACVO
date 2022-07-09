@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ACVO/static/css/main.ff79ec8e.css",
+    "main.js": "/ACVO/static/js/main.dae42c06.js",
+    "static/js/787.ce80e8c9.chunk.js": "/ACVO/static/js/787.ce80e8c9.chunk.js",
+    "index.html": "/ACVO/index.html",
+    "main.ff79ec8e.css.map": "/ACVO/static/css/main.ff79ec8e.css.map",
+    "main.dae42c06.js.map": "/ACVO/static/js/main.dae42c06.js.map",
+    "787.ce80e8c9.chunk.js.map": "/ACVO/static/js/787.ce80e8c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff79ec8e.css",
+    "static/js/main.dae42c06.js"
+  ]
+}
