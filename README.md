@@ -14,11 +14,11 @@ Active Voting (ACVO) is a decentralized ballot application what people can earn 
 USING EXP.
 ----------
 
-When an user want to create a new ballot, ACVO's main contract create a child ballot contract what have the functions about voting. While creating a child contract, it's address to be paired with a random number what is called as ID. Users can use this ID to reach spesific ballot. Everyone can create a new ballot and join the system, the cost of creating a new ballot is 0.0005 ETH + gasfee (For ropsten test).
+When an user want to create a new ballot, ACVO's main contract create a child ballot contract what have the functions about voting. While creating a child contract, it's address to be paired with a random number what is called as ID. Users can use this ID to reach spesific ballot. Everyone can create a new ballot and join the system, the cost of creating a new ballot is 0.0005 ETH + gasfee (For rinkeby test).
 
 0.0005 ETH is for main contract of ACVO. This balance is going to use for developing the technology (Vulcan promise!). 
 
-After created a new ballot, creator can share his/her own ballot's ID to share and earn money. Creators earn money from candidates who want to participate in voting. The cost of being a candidate is 0.0003 ETH + gasfee (For ropsten test).
+After created a new ballot, creator can share his/her own ballot's ID to share and earn money. Creators earn money from candidates who want to participate in voting. The cost of being a candidate is 0.0003 ETH + gasfee (For rinkeby test).
 
 0.0003 ETHis for creator and only creator can withdraw it. This balance is creator's so, we do not care what creator do with this money. As you can see from contract's code; even ACVO's main contract can't reach this balance, it is "creator only" function.
 
