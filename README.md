@@ -46,6 +46,6 @@ No. We are against the unnecessary use of token just to gain liquidity.
 
 ACVO is a voting platform, not an investment platform. Using ACVO and reporting your feedback will make the greatest contribution to us.
 
-5-) Whe are the founders of ACVO?
+5-) Who are the founders of ACVO?
 
 Ali Bertay SOLAK (developer) and Deniz San GÜRLER (mastermind). 
